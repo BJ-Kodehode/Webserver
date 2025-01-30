@@ -83,8 +83,8 @@ public BorrowReciept? BorrowBook(string title){
 
 class Book
 {
-  public string Title;
-  public string Author;
+  public string Title {get; set;}
+  public string Author {get; set;}
 
   public Book(string title, string author)
   {
@@ -95,9 +95,9 @@ class Book
 
 class BorrowReciept
 {
-   public DateTime BorrowingDate;
-    public DateTime DueDate;
-    public string BookTitle;
+   public DateTime BorrowingDate {get; set;}
+    public DateTime DueDate {get; set;}
+    public string BookTitle {get; set;}
 
    public BorrowReciept(string bookTitle){
         BookTitle = bookTitle;

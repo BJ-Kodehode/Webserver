@@ -26,3 +26,4 @@ C:\Koding\Kurs\C#\Webserver\obj\Debug\net9.0\refint\Webserver.dll
 C:\Koding\Kurs\C#\Webserver\obj\Debug\net9.0\Webserver.pdb
 C:\Koding\Kurs\C#\Webserver\obj\Debug\net9.0\Webserver.genruntimeconfig.cache
 C:\Koding\Kurs\C#\Webserver\obj\Debug\net9.0\ref\Webserver.dll
+C:\Koding\Kurs\C#\Webserver\obj\Debug\net9.0\Webserver.sourcelink.json
